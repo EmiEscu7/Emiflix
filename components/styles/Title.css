@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Netflix";
+    src: url("../../fonts/BebasNeue-Regular.ttf");
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    font-family: "Netflix";
+    font-size:  45px;
+    color:  red;
+    position: absolute;
+    top: 5%;
+    left: 2%;
+}

@@ -1,0 +1,22 @@
+.contenedor {
+    display: block;
+    width: 100vh;
+    height: 300px;
+    position: absolute;
+    top: 20%;
+}
+
+.list-video {
+    margin: 0 20px 10px 10px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+.title-vl {
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 10px 20px 0 10px;
+}

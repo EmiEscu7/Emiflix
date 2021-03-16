@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "title": "Attack on Titan",
+    "description": "Esta serie nos traslada una época en la que la humanidad ha estado al borde de la extinción debido a la existencia de los titanes. Unos seres gigantes aparentemente sin inteligencia cuyo objetivo no es otro que devorar humanos a pesar de no necesitarlos para sobrevivir.",
+    "img": "../images/snk-final.jpg",
+    "video": "./Series/snk-final14.mp4"
+},
+{
+    "id": 2,
+    "title": "Game of Thrones",
+    "description": "En un mundo fantástico y en un contexto medieval varias familias, relativas a la nobleza, se disputan el poder para dominar el territorio ficticio de Poniente (Westeros) y tomar el control de los Siete Reinos desde el Trono de Hierro, lugar donde el rey ejerce el poder.",
+    "img": "../images/got.jpg",
+    "video": "./Series/snk-final14.mp4"
+},
+{
+    "id": 3,
+    "title": "Mr. Robot",
+    "description": "Sigue los pasos de Elliot Alderson (Rami Malek), un joven programador que trabaja como ingeniero de ciberseguridad de día y como hacker/justiciero de noche. Pero ser un genio tiene un precio: Elliot sufre un trastorno de ansiedad social que le hace un bicho raro.",
+    "img": "../images/mrRobot.png",
+    "video": "./Series/snk-final14.mp4"
+}]
